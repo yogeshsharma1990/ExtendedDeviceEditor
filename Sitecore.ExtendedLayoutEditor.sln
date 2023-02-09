@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sitecore.ExtendedLayoutEditor", "Sitecore.ExtendedLayoutEditor.csproj", "{C3B3FA8B-0261-4CE1-A0C4-F945327A5F1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3B3FA8B-0261-4CE1-A0C4-F945327A5F1F}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{C3B3FA8B-0261-4CE1-A0C4-F945327A5F1F}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{C3B3FA8B-0261-4CE1-A0C4-F945327A5F1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3B3FA8B-0261-4CE1-A0C4-F945327A5F1F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F73576CE-C30F-4636-8293-7AF43D88CC5D}
+	EndGlobalSection
+EndGlobal
